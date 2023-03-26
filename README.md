@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cosmin</h1>
 <h3 align="center">A passionate back-end developer from Romania</h3>
 
-- 🔭 I’m currently working on [a calorie tracker app build with Razor Pages, using an Microsoft SQL Server database.](https://github.com/Cosmin2397/CalorieCounter.App)
-
 - 🌱 I’m currently learning **ASP.NET, creating MVC, Razor Pages and Api Apps.**
 
 - 👨‍💻 All of my projects are available at [https://cosmin2397.github.io/Portfolio/](https://cosmin2397.github.io/Portfolio/)
