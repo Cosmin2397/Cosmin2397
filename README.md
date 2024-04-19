@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://cosmin2397.github.io/Portfolio/](https://cosmin2397.github.io/Portfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10eD-5RNwjXTiPJQgZfU4kzMfZNe2fnhl/view](https://drive.google.com/file/d/10eD-5RNwjXTiPJQgZfU4kzMfZNe2fnhl/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cosmin-moisa-4b9445155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cosmin-moisa-4b9445155/" height="30" width="40" /></a>
